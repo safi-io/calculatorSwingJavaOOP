@@ -44,16 +44,16 @@ The project is divided into the following files:
 ---
 
 ## **Screenshots**
-### **Calculator Interface**
-*Insert a screenshot of the calculator interface here.*
+### Calculator Interface
+![Calculator Interface](assets/calculator.png "Calculator Interface Screenshot")
 
-### **History Window**
-*Insert a screenshot of the history window here.*
+### History Window
+![History Window](assets/history.png "History Window Screenshot")
 
 ---
 
 ## **Acknowledgments**
-This project was developed as part of the **OOP Assignment 4** for the **Bachelor of Computer Science** program.  
+This project was developed as part of the **OOP Assignment 4** under the guidance of **Mr Ali Sher Kashif** at **COMSATS University, Sahiwal** for for the **Bachelor of Computer Science** program.  
 
 ---
 
